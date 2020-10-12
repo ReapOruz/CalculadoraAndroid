@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBotonOperaciones">#585859</color>
+    <color name="colorTextoBotones">#FFFEFE</color>
+    <color name="colorBotonNumero">#838383</color>
+    <color name="colorBotonIgual">#04474E</color>
+    <color name="colorFondoPantalla">#232829</color>
+    <color name="colorTextoPantalla">#FFFFFF</color>
+    <color name="colorFondoCalculadora">#32323A</color>
+
+</resources>
